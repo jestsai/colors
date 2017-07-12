@@ -22,3 +22,6 @@ sns.color_palette("husl", n_colors=20)
 
 from matplotlib.colors import rgb2hex
 list(map(rgb2hex, sns.color_palette("husl", n_colors=20)))
+
+# These are the colormap libraries
+
